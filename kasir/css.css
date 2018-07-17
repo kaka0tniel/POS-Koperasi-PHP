@@ -1,0 +1,75 @@
+#FormAction {
+    border-top: 1px solid  #800080;
+    margin-bottom: 1em;
+    width: 50%;
+	align:center;
+	}
+#HalamanTopup{
+	text-align:center;
+	width:150;
+	height:35;
+}
+
+#HalamanInventory{
+	text-align:center;
+	width:150;
+	height:35;
+	background-color:coral;
+}
+#HalamanInventory2{
+	text-align:center;
+	width:150;
+	height:35;
+	background-color:Burlywood;
+}
+.index{
+	
+	border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	height:43px;
+	width:60%;
+	margin-left:10px
+}
+
+.submit{
+	margin-left:32%;
+	width:30%;
+	height:30px;
+	cursor:pointer;
+}
+
+.submit2{
+	width:28%;
+	height:30px;
+	cursor:pointer
+}
+
+.submit3{
+	width:100%;
+	height:30px;
+	cursor:pointer;
+	background-color:
+}
+.button{
+    border: none;
+    color: white;
+    padding: 6px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+/* <style type="text/css">
+<!--
+body {
+	background-image: url(img/loginbg.png);
+	background-repeat:no-repeat;
+	background-position:top;
+	background-color:#000000;
+	
+}
+-->
+</style></head> */
